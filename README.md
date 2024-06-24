@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ An aspiring Computer Science Engineering student with a strong foundation in algorithms and data structures. I am proficient in Java and Python, and have gained valuable experience through academic projects and internship. I excel in both teamwork and problem-solving. I am passionate about AI, machine learning, and I am always eager to learn and grow in my field.
+
+----
+
 [![Suriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuriyaPradeep)](https://github.com/SuriyaPradeep/github-readme-stats)
